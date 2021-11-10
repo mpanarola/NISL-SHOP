@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  font-family: "Source Sans Pro", serif;
+}
+
+div#banner {
+  display: none !important;
+}
